@@ -3,8 +3,7 @@
 
 void main()
 {
-int i,j;
-    int n=4;
+    int i,j;
     int c=1;
 
     
